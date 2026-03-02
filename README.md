@@ -39,3 +39,9 @@ Later you can see the site in the URL:
 http://localhost:8000
 
 The route of the controller is:
+
+You can see in production in the url 
+
+https://3.142.150.154/ 
+
+Note: HTTPS uses a self-signed certificate, so your browser may show a warning.
